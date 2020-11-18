@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/wlad_neto)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534996659805&text=wlad!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/wlad_neto)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:wlad@crudtec.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:wladimirteixeiraneto@gmail.com)
 ### Hi there 👋
 
 I´m **@wladneto** and this is my public profile on github. Enjoy
