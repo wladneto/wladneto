@@ -14,6 +14,12 @@ I´m **@wladneto** and this is my public profile on github.
 - 🤖 I love chatbots and robot process automations (RPAs). I work with Rasa, Watson, Dialogflow, Luis.Ai, UiPath and Automation Anywhere.   
 
 ## My Stats
+<a href="https://github.com/wladneto">
+  <img align="center" src="[![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)]" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/wladneto)
 [![Wlad Neto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladneto&theme=dracula)](https://github.com/wladneto)
