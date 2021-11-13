@@ -12,7 +12,7 @@ I´m **@wladneto** and this is my public profile on github.
 
 [![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/wladneto)
 [![Wlad Neto's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wladneto&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/wladneto)
-[![Wlad Neto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladneto)](https://github.com/wladneto)
+[![Wlad Neto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladneto&theme=dracula)](https://github.com/wladneto)
 
 
 - 🔭 I’m currently working with .Net, NodeJs, Python, Docker, Kubernets, MongoDb and Cloud in general like serverless, AWS, Azure and GCP. 
