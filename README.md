@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:wladimirteixeiraneto@gmail.com)
 ### Hi there 👋
 
-I´m **@wladneto** and this is my public profile on github. Enjoy
+I´m **@wladneto** and this is my public profile on github.
 
 [![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/wladneto)
 [![Wlad Neto's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wladneto&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/wladneto)
