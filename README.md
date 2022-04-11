@@ -20,3 +20,5 @@ I´m **@wladneto** and this is my public profile on github.
 [![Wlad Neto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladneto&theme=dracula)](https://github.com/wladneto)
 ###
 [![Wlad Neto's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wladneto&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/wladneto)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wladneto/50071305-9193-434e-98da-76ea71628888.png" /></a>
