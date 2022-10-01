@@ -9,10 +9,11 @@
 [![wakatime](https://wakatime.com/badge/user/24e03414-0082-48c0-ba3e-e3af504d1bee.svg)](https://wakatime.com/@24e03414-0082-48c0-ba3e-e3af504d1bee)
 ### Hi there 👋
 
-I´m **@wladneto** and this is my public profile on github.
+I´m **@wladneto** and this is my public profile on github
 
 - 🔭 I’m currently working with .Net, NodeJs, Python, Docker, Kubernets, MongoDb and Cloud in general like serverless, AWS, Azure and GCP. 
-- 🤖 I love chatbots and robot process automations (RPAs). I work with Rasa, Watson, Dialogflow, Luis.Ai, UiPath and Automation Anywhere.   
+- 🤖 I love chatbots and robot process automations (RPAs). I work with Rasa, Watson, Dialogflow, Luis.Ai, UiPath and Automation Anywhere. 
+- Most of my contributions are in corporate repositories (Privates)
 
 ## My Stats
 [![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/wladneto)
