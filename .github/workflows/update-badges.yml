@@ -22,5 +22,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: 'wladimir-teixeira-neto'         
-          BADGE_SIZE: 100
+          BADGE_SIZE: 130
           NUMBER_LAST_BADGES: 24
