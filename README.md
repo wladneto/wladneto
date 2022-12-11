@@ -18,6 +18,9 @@ I´m **@wladneto** and this is my public profile on github
 ## My Badges (credly)
 
 <!--START_SECTION:badges-->
+[![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042 "AWS Certified Developer – Associate")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/31d6d9e5-4ccd-424a-8525-96fedcfc37eb "AWS Certified Solutions Architect – Associate")
+[![Genesys Cloud Certified Associate](https://images.credly.com/size/100x100/images/f66f939b-4ac9-401f-a7b5-f20ac1a81a70/Genesys-Certified-Associate.png)](http://www.credly.com/badges/3b685c2c-4205-4685-9e7a-263dcf5e2123 "Genesys Cloud Certified Associate")
 <!--END_SECTION:badges-->
 
 ## My Stats
