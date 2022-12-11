@@ -15,7 +15,7 @@ I´m **@wladneto** and this is my public profile on github
 - 🤖 I love chatbots and robot process automations (RPAs). I work with Rasa, Watson, Dialogflow, Luis.Ai, UiPath and Automation Anywhere. 
 - Most of my contributions are in corporate repositories (Privates)
 
-## My Badges (credly)
+## My Certifications
 
 <!--START_SECTION:badges-->
 [![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042 "AWS Certified Developer – Associate")
