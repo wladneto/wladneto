@@ -18,9 +18,12 @@ I´m **@wladneto** and this is my public profile on github
 ## My Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57 "AWS Certified Cloud Practitioner")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/130x130/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042 "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/130x130/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/31d6d9e5-4ccd-424a-8525-96fedcfc37eb "AWS Certified Solutions Architect – Associate")
 [![Genesys Cloud Certified Associate](https://images.credly.com/size/130x130/images/f66f939b-4ac9-401f-a7b5-f20ac1a81a70/Genesys-Certified-Associate.png)](http://www.credly.com/badges/3b685c2c-4205-4685-9e7a-263dcf5e2123 "Genesys Cloud Certified Associate")
+
+
 <!--END_SECTION:badges-->
 
 ## My Stats
