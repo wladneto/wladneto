@@ -18,15 +18,27 @@ I´m **@wladneto** and this is my public profile on github
 ## My Certifications
 
 <!--START_SECTION:badges-->
-<a href="http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130"></a>
-<a href="http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/130x130/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="130" height="130"></a>
-<a href="http://www.credly.com/badges/31d6d9e5-4ccd-424a-8525-96fedcfc37eb" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/130x130/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="130" height="130"></a>
-<a href="https://www.credly.com/badges/eb9265a4-0800-4678-a08f-fa9149da2950" title="AWS Certified SysOps Administrator"><img src="https://images.credly.com/size/130x130/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator" width="130" height="130"></a>
-<a href="https://www.credly.com/badges/534bd079-c0f0-4313-bb25-f6233d58dfe2/public_url" title="AWS Certified DevOps Engineer – Professional"><img src="https://images.credly.com/size/130x130/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="130" height="130"></a>
-<a href="https://www.credly.com/badges/2cc09e47-cc18-44be-928f-96d1140494eb" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/130x130/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="130" height="130"></a>
-<a href="https://www.credly.com/badges/3b685c2c-4205-4685-9e7a-263dcf5e2123/public_url" title="Genesys Cloud Certified Associate"><img src="https://images.credly.com/size/130x130/images/f66f939b-4ac9-401f-a7b5-f20ac1a81a70/Genesys-Certified-Associate.png" alt="Genesys Cloud Certified Associate" width="130" height="130"></a>
-
-
+<a href="http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130">
+</a>
+<a href="http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042/public_url" title="AWS Certified Developer – Associate" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="130" height="130">
+</a>
+<a href="http://www.credly.com/badges/31d6d9e5-4ccd-424a-8525-96fedcfc37eb/public_url" title="AWS Certified Solutions Architect – Associate" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="130" height="130">
+</a>
+<a href="https://www.credly.com/badges/eb9265a4-0800-4678-a08f-fa9149da2950/public_url" title="AWS Certified SysOps Administrator" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator" width="130" height="130">
+</a>
+<a href="https://www.credly.com/badges/534bd079-c0f0-4313-bb25-f6233d58dfe2/public_url" title="AWS Certified DevOps Engineer – Professional" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="130" height="130">
+</a>
+<a href="https://www.credly.com/badges/2cc09e47-cc18-44be-928f-96d1140494eb/public_url" title="AWS Certified Solutions Architect – Professional" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="130" height="130">
+</a>
+<a href="https://www.credly.com/badges/3b685c2c-4205-4685-9e7a-263dcf5e2123/public_url" title="Genesys Cloud Certified Associate" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/f66f939b-4ac9-401f-a7b5-f20ac1a81a70/Genesys-Certified-Associate.png" alt="Genesys Cloud Certified Associate" width="130" height="130">
+</a>
 <!--END_SECTION:badges-->
 
 ## My Stats
