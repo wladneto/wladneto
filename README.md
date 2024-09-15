@@ -21,6 +21,9 @@ I´m **@wladneto** and this is my public profile on github
 <a href="http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
     <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130">
 </a>
+<a href="https://www.credly.com/badges/ddee147c-eef1-41d2-85f6-e7f69d566541/public_url" title="AWS Certified AI Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="130" height="130">
+</a>
 <a href="http://www.credly.com/badges/cd7a2a61-8859-4b26-9d0f-ba782850d042/public_url" title="AWS Certified Developer – Associate" target="_blank">
     <img src="https://images.credly.com/size/130x130/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="130" height="130">
 </a>
