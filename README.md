@@ -1,4 +1,8 @@
-[![Site Badge](https://img.shields.io/badge/-Site-blue?logo=Wordpress)](https://crudtec.com.br)
+# Wladimir Teixeira Neto 👨‍💻
+
+> **Full-Stack Developer & Cloud Solutions Architect** | **AI & Automation Specialist** | **DevOps Engineer**
+
+[![Site Badge](https://img.shields.io/badge/-Portfolio-blue?logo=Wordpress)](https://crudtec.com.br)
 [![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white)](https://github.com/wladneto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wladimirteixeiraneto/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/5749712/wlad-neto)
@@ -7,15 +11,25 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/wlad_neto)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:wladimirteixeiraneto@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/24e03414-0082-48c0-ba3e-e3af504d1bee.svg)](https://wakatime.com/@24e03414-0082-48c0-ba3e-e3af504d1bee)
-### Hi there 👋
 
-I´m **@wladneto** and this is my public profile on github
+---
 
-- 🔭 I’m currently working with .Net, NodeJs, Python, Docker, Kubernets, MongoDb and Cloud in general like serverless, AWS, Azure and GCP. 
-- 🤖 I love chatbots and robot process automations (RPAs). I work with Rasa, Watson, Dialogflow, Luis.Ai, UiPath and Automation Anywhere. 
-- Most of my contributions are in corporate repositories (Privates)
+## 🚀 About Me
 
-## My Certifications
+Hello! I'm **Wladimir Teixeira Neto** (@wladneto), a passionate technology professional with expertise in full-stack development, cloud architecture, and artificial intelligence solutions.
+
+### 🎯 What I Do
+
+- **🔭 Full-Stack Development**: Currently working with modern technologies including .NET, Node.js, Python, Docker, Kubernetes, and MongoDB
+- **☁️ Cloud Solutions**: Extensive experience with serverless architectures and major cloud platforms (AWS, Azure, GCP)
+- **🤖 AI & Automation**: Specialized in chatbots and robotic process automation (RPA) using Rasa, Watson, Dialogflow, Luis.AI, UiPath, and Automation Anywhere
+- **🏢 Enterprise Focus**: Most of my contributions are in corporate repositories, delivering scalable solutions for business needs
+
+---
+
+## 🏆 Professional Certifications
+
+### AWS Cloud & DevOps Certifications
 
 <!--START_SECTION:badges-->
 <a href="http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57/public_url" title="AWS Certified Cloud Practitioner" target="_blank">
@@ -44,9 +58,26 @@ I´m **@wladneto** and this is my public profile on github
 </a>
 <!--END_SECTION:badges-->
 
-## My Stats
+---
+
+## 📊 GitHub Statistics
+
+### Overall Activity
+
 [![Wlad Neto's github stats](https://github-readme-stats.vercel.app/api?username=wladneto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/wladneto)
-###
+
+### Programming Languages
+
 [![Wlad Neto's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wladneto&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/wladneto)
 
+### Development Activity
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@wladneto/50071305-9193-434e-98da-76ea71628888.png" /></a>
+
+---
+
+## 💼 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just sharing knowledge about technology. Feel free to reach out through any of the platforms above!
+
+**📍 Based in Brazil | 🌍 Available for remote work worldwide**
